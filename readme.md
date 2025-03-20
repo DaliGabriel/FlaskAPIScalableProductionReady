@@ -1,4 +1,3 @@
-Sure! Here’s a simple yet effective README.md for your Flask API project:
 # 🚀 Flask API – Scalable & Production-Ready  
 
 This is a **Flask REST API** built with **PostgreSQL, SQLAlchemy, and Docker**, following **SOLID principles** and a **clean architecture** for maintainability and scalability.
@@ -19,7 +18,7 @@ This is a **Flask REST API** built with **PostgreSQL, SQLAlchemy, and Docker**, 
 
 ### 1️⃣ Clone the Repository  
 ```bash
-git clone <REPO_URL>
+git clone https://github.com/DaliGabriel/FlaskAPIScalableProductionReady
 cd my_flask_api
 ```
 
